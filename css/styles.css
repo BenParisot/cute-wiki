@@ -1,0 +1,20 @@
+#kittie {
+  display: none;
+}
+
+#giraffe {
+  display: none;
+}
+
+#kinkajou {
+  display: none;
+}
+
+#flemmy {
+  display: none;
+}
+
+a {
+  color: blue;
+  text-decoration: underline;
+}
